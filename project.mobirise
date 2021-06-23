@@ -48,7 +48,15 @@
     "uniqCompNum": 17,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "favicon": "@PROJECT_PATH@/assets/images/5db06339-8d48-4dab-be79-29a0a7a30486-removebg-128x128.png",
+    "mbrsiteDomain": "yuiimj3n1p",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
